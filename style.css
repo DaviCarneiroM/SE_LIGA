@@ -210,8 +210,6 @@ body {
     text-align: center;
     width: 70%;
     padding-left: 4em;
-    justify-content: center;
-    align-items: center;
 }
 
 .carrossel-dois-título {
@@ -222,6 +220,7 @@ body {
 
 .carrossel-dois-texto {
     font-size: 1.25em;
+    align-items: center;
 }
 
 /*Carrossel-três*/

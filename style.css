@@ -398,7 +398,6 @@ body {
 
     .carrossel-dois-conteúdo {
         padding-left: 0em;
-        padding-right: 0em;
     }
 
     .carrossel-dois-imagem {
@@ -456,12 +455,5 @@ body {
         width: 100%;
     }
 
-    .carrossel-dois-texto {
-        width: 90%;
-    }
-
-    .carrossel-três-texto {
-        width: 90%;
-    }
-
+    
 }

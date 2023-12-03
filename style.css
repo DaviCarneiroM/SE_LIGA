@@ -396,6 +396,10 @@ body {
         flex-direction: column;
     }
 
+    .carrossel-dois-conteúdo {
+        padding-left: 0em;
+    }
+
     .carrossel-dois-imagem {
         width: 25%;
     }

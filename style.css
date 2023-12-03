@@ -396,6 +396,10 @@ body {
         flex-direction: column;
     }
 
+    .carrossel-dois-texto {
+        padding-left: 0;
+    }
+
     .carrossel-dois-imagem {
         width: 25%;
     }
@@ -404,6 +408,10 @@ body {
 
     .carrossel-três {
         flex-direction: column;
+    }
+
+    .carrossel-três-texto {
+        padding-left: 0;
     }
 
     .carrossel-três-imagem {
@@ -430,6 +438,10 @@ body {
     }
 
     /*Carrossel 2 e 3*/
+
+    .carrossel-dois {
+        padding: 0;
+    }
 
     .carrossel-dois-conteúdo {
         width: 100%;

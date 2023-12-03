@@ -437,7 +437,7 @@ body {
         display: none;
     }
 
-    /*Carrossel 2 e 3*/
+    /*Carrossel-dois*/
 
     .carrossel-dois {
         padding: 0;
@@ -447,6 +447,8 @@ body {
         width: 90%;
     }
 
+    /*Carrossel-três*/
+
     .carrossel-três {
         padding: 0;
     }
@@ -455,4 +457,10 @@ body {
         width: 90%;
     }
     
+    /*Desenvolvedores*/
+
+    .desenvolvedores-item-título {
+        font-size: 1em;
+    }
+
 }

@@ -424,6 +424,6 @@ body {
     }
 
     .container-título {
-        font-size: 1.5em;
+        display: none;
     }
 }

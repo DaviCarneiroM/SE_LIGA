@@ -396,8 +396,6 @@ body {
         flex-direction: column;
     }
 
-   
-
     .carrossel-dois-imagem {
         width: 25%;
     }
@@ -406,10 +404,6 @@ body {
 
     .carrossel-três {
         flex-direction: column;
-    }
-
-    .carrossel-três-conteúdo {
-        padding-left: 0em;
     }
 
     .carrossel-três-imagem {

@@ -431,8 +431,8 @@ body {
 
     /*Carrossel 2 e 3*/
 
-    .carrossel-dois {
-        padding: 0em;
+    .carrossel-dois-conteúdo {
+        width: 100%;
     }
 
     .carrossel-dois-texto {

@@ -449,6 +449,9 @@ body {
 
     /*Carrossel-três*/
 
+    .carrossel-três {
+        padding: 0 2em;
+    }
 
     .carrossel-três-conteúdo {
         width: 90%;

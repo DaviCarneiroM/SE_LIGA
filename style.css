@@ -431,6 +431,10 @@ body {
 
     /*Carrossel 2 e 3*/
 
+    .carrossel-dois {
+        padding: 0em;
+    }
+
     .carrossel-dois-texto {
         width: 90%;
     }

@@ -398,8 +398,7 @@ body {
 
     .carrossel-dois-conteúdo {
         padding-left: 0em;
-        text-align: center;
-
+        align-items: center;
     }
 
     .carrossel-dois-texto {
